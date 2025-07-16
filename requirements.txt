@@ -6,3 +6,4 @@ wordcloud
 wordninja
 scikit-learn
 joblib
+nltk
