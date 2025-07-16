@@ -10,3 +10,5 @@ nltk
 streamlit
 streamlit-option-menu
 openpyxl
+pfdf
+datetime
