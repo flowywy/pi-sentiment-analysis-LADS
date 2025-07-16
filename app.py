@@ -61,7 +61,7 @@ if uploaded_file is not None:
         st.stop()
 
     if 'content' not in df.columns:
-        st.error("❌ Column 'content' not found in the uploaded file.", unsafe_allow_html=True)
+        st.error("❌ Column 'content' not found in the uploaded file.")
     else:
         with st.spinner("Analyzing sentiments, please wait..."):
             df = preprocess_dataframe(df, slang_dict)
