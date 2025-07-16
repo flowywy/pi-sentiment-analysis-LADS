@@ -4,5 +4,5 @@ pandas
 seaborn
 wordcloud
 wordninja
-sklearn
+scikit-learn
 joblib
