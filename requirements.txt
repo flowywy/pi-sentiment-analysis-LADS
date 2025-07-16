@@ -7,3 +7,5 @@ wordninja
 scikit-learn
 joblib
 nltk
+streamlit
+streamlit-option-menu
