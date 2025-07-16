@@ -9,3 +9,4 @@ joblib
 nltk
 streamlit
 streamlit-option-menu
+openpyxl
